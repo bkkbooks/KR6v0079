@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6v0079/zw/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錄文三玄奘法師禮拜逐月有十齋日一日齋善惡童子下界念定光佛八日齋太子下界念藥師琉璃光佛十四日齋司命下界念賢劫千佛十五日齋五道將軍下界念阿彌陀佛十八日齋閻羅王天子下界念地藏菩薩二十三日齋天大將軍下界念大勢至菩薩二十四日齋察命下界念觀世音菩薩二十八日齋太山府君下界念盧舍那佛二十九日齋四天王下界念藥王藥上菩薩三十日齋大梵王下界念釋迦牟尼佛錄文完
+  hash: sha256:daeed62bfca15cc73d06aa98771f1477a9a0c23da30bed1653f6d057d5ab3c9a
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0079_ZW_001-juan-start, juan_n: '001'}
+  - {type: 其他, offset: 0, content: 錄文三, id: KR6v0079_ZW_001-mulu-1, level: '1'}
+metadata:
+  title: 地藏菩薩十齋日
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0064c.xml
+    old_id: ZW07n0064c
+hash: sha256:ac96b4c84cf59f82680a5f98ab2fa8024505fe65fdf83785b40629f3c5931869
